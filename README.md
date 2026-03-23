@@ -43,7 +43,7 @@ After preparing the data, several analyses and visualizations were conducted to 
 **Business Objective I**: Which genres are the most popular?
 Establish the top movie genres according to voters, based on rating.
 
-![alt text](image_1.png)  
+![graph from first objective](image_1.png.jpeg)  
 
 From the Graph above, we can conclude that the most popular movies are of the drama genre in combination with high-engagement elements like sci-fi, adventure, or mystery
 
@@ -51,12 +51,12 @@ From the Graph above, we can conclude that the most popular movies are of the dr
 Establish the relationship between the movie genre and the total profit to identify those with the most upside for the new in-house movie studio.  
 Focus is done on the top 10 movie genres identified earlier
 
-![alt text](image_2.png)  
+![[graph from second objective](image_2.png.jpeg)  
 
 **Business Objective III**: What movie budget range maximizes return on investment (ROI) or profitability?
 Identify the budget range that provides the most upsside for the new movie studio, to prevent or minimize sunken costs.
 
-![alt text](image_1.png)  
+![[graph from third objective](image_3.png.jpeg)  
 
 
 # # Business Recommendations
