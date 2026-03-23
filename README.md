@@ -1,7 +1,7 @@
 **Data-Driven Insights into Movie Box Office Success**
 **Authors**:Group 5, Phase 2 Project( Reeves Gonah, Cynthia Jemutai, Eliud Kibet, Stephen Jilani, Mohamad Adan ) 
 
-# #Overview
+# Overview
 This project explores historical movie data to identify the key factors associated with box office success. By combining financial data with attributes such as genre, release timing, and audience reception, the analysis aims to highlight which types of films tend to perform well and why.
 
 # Business Understanding
@@ -32,7 +32,7 @@ Before cleaning all rows and columns, merging was necessary so as only to be lef
 This new table was renamed as movie database
 
  ## Final Data
- _After cleaning and merging, the final dataset contained all relevant columns for analysis:
+ After cleaning and merging, the final dataset contained all relevant columns for analysis:
 Based on the identified business objective and business questions, the following were the columns likely required:(GenreRevenue: domestic gross + worldwide gross
 Budget,Popularity: rating+ numvotes,Title,Year,Studio,Datasets imdb and tn have all the information/columns necessary.
  imdb was selected as the primary dataset and tn(the numbers) as the secondary data
@@ -51,12 +51,12 @@ From the Graph above, we can conclude that the most popular movies are of the dr
 Establish the relationship between the movie genre and the total profit to identify those with the most upside for the new in-house movie studio.  
 Focus is done on the top 10 movie genres identified earlier
 
-![[graph from second objective](image_2.png.jpeg)  
+![graph from second objective](image_2.png.jpeg)  
 
 **Business Objective III**: What movie budget range maximizes return on investment (ROI) or profitability?
 Identify the budget range that provides the most upsside for the new movie studio, to prevent or minimize sunken costs.
 
-![[graph from third objective](image_3.png.jpeg)  
+![graph from third objective](image_3.png.jpeg)  
 
 
 # # Business Recommendations
